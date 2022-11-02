@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/SteamDB-000000?style=flat-square&logo=SteamDB&logoColor=white" align="center"/>
 <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=MariaDBFoundation&logoColor=white" align="center"/>
 </p>
-[![Posi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rndtn&show_icons=true&theme=tokyonight)]
+<!--[![Posi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rndtn&show_icons=true&theme=tokyonight)]-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&card_width=400px)](https://github.com/anuraghazra/github-readme-stats)
 
