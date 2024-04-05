@@ -2,8 +2,6 @@
 
 반갑습니다, 꾸준히 발전하는 프런트엔드 주니어 개발자 남궁수입니다.
 
-![남궁수.jpg](Soo,%20Frontend%20Developer%2001dd1a31df9645da94e67d6757e95941/%25E1%2584%2582%25E1%2585%25A1%25E1%2586%25B7%25E1%2584%2580%25E1%2585%25AE%25E1%2586%25BC%25E1%2584%2589%25E1%2585%25AE.jpg)
-
 ### Contact.
 
 📩  rndtn6851@gmail.com
@@ -18,7 +16,7 @@
 
 ### Channel.
 
-💻  [Github](https://github.com/miniposi)
+🔗  [Notion](https://cooperative-cardigan-386.notion.site/Soo-Frontend-Developer-01dd1a31df9645da94e67d6757e95941?pvs=74)
 
 🎞️  [Velog](https://velog.io/@rndtn)
 
